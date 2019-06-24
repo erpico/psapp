@@ -1,0 +1,9 @@
+log
+log/*
+*.log
+*.pdb
+*.txt
+*.xml
+cache
+cookies
+*.ini
